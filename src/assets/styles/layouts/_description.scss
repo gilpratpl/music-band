@@ -1,0 +1,62 @@
+
+.descripcion {
+
+  text-align: center;
+
+  .brain {
+    width: 30%;
+  }
+
+  .triangle { 
+    margin-top: -55%;
+  }
+
+  .graphic {
+    position: absolute;
+  }
+
+  p {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-top: 0;
+    margin-left:20px;
+    font-size: $font-size-litle;
+    line-height: 25px;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  @media (min-width: 768px) {
+    
+    p {
+      width: 60%;
+      font-size: $font-size-medium;
+      line-height: 35px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    
+    p {
+      width: 60%;
+      font-size: $font-size-medium-big;
+      line-height: 45px;
+    }
+  }
+
+  .flex {
+    justify-content: space-evenly;
+  }
+}
+
+  
+.me {
+  z-index: 1000;
+  height: 300px;
+}
+
+.me:hover {
+  filter: grayscale(1);
+}
+  
