@@ -67,20 +67,20 @@
 }
 
 .image {
-  background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-phone.jpg");
+  background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-phone.webp");
   background-size: cover;
 }
 
   @media (min-width: 768px) {
 
     .image {
-      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-tablet.jpg");
+      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-tablet.webp");
     }
   }
 
   @media (min-width: 1200px) {
 
     .image {
-      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-desktop.jpg");
+      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-desktop.webp");
     }
   }
