@@ -4,8 +4,6 @@
   justify-content: space-around;
   padding-top: 6%;
   padding-bottom: 3%;
-  background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada2.jpg?");
-  background-size: cover;
     
   .primary-title {
     font-size: $font-size-big;
@@ -35,6 +33,7 @@
 
 
   @media (min-width: 768px) {
+
     .code {
       display:inline-block;
     }
@@ -51,6 +50,7 @@
 
   
   @media (min-width: 1200px) {
+
     .code {
       display:inline-block;
       font-size: $font-size-big;
@@ -64,5 +64,23 @@
       font-size: $font-size-big;
     }
   }
-  
 }
+
+.image {
+  background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-phone.jpg");
+  background-size: cover;
+}
+
+  @media (min-width: 768px) {
+
+    .image {
+      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-tablet.jpg");
+    }
+  }
+
+  @media (min-width: 1200px) {
+
+    .image {
+      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-desktop.jpg");
+    }
+  }

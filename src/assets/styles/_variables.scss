@@ -3,15 +3,16 @@
 @font-face {
   font-family: "OCR A EXTENDED";
   src: url("../fonts/OCR\ A\ Extended\ V1.woff");
+  font-display: swap;
 }
 
 @font-face {
   font-family: Montserrat;
   src: url("../fonts/Montserrat-Medium.woff");
+  font-display: swap;
 }
 
-$font-family-sans-serif: Montserrat,Helvetica,Arial,sans-serif;
-$font-family-serif: "Georgia", "Times New Roman", serif;
+$font-family-sans-serif: Montserrat, Helvetica, Arial, sans-serif;
 $font-family-code:  "OCR A Extended", monospace;
 $font-size-bigger: 70px;
 $font-size-title: 50px;
