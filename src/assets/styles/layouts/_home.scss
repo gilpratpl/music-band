@@ -1,80 +1,8 @@
 
-//Headers 
 
-h3 {
-  margin-top: 0px;
-  font-family: $font-family-sans-serif;
-  font-size: $font-size-title;
-  color: $color-green;
-}
+/* Global Main styles */
 
-section,
-head {
-  padding:30px;
-}
-
-// Description lists
-dd {
-
-  span {
-    color: $color-hover
-  }
-}
-
-
-dl {
-
-  dd,
-  dt{
-    font-size: $font-size-medium;
-  }
-
-  dd {
-    margin-inline: 0;
-    padding: 8px;
-  }
-
-  dt {
-    padding-bottom: 20px;
-  }
-
-  dt:not(:first-child) {
-    padding-top: 30px;
-  }
-  
-  @media (min-width: 768px) {
-    
-    dd,
-    dt{
-      font-size: $font-size-medium-big;
-    }
-  }
-
-  @media (min-width: 1200px) {
-    
-    dd,
-    dt{
-      font-size: $font-size-big;
-    }
-  }
-}
-
-// Links and icons
-
-a {
-  color: $link-text;
-  text-decoration: none;
-}
-
-// FLEX and positioning
-
-.right {
-  float: right;
-}
-
-//infrastructure
-
-body {
+.body {
   box-sizing: border-box;
   margin: 0;
   font-family: $font-family-code;
@@ -82,11 +10,11 @@ body {
   background-color: $uoc-bg;
 }
 
-footer {
+.footer {
   padding: 30px;
   margin-top: 100px;
-  background-color: #000000;
- 
+  background-color: #000;
+
   a {
     padding: 10px;
     font-size: $font-size-medium;
@@ -98,6 +26,71 @@ footer {
   }
 }
 
+h3 {
+  margin-top: 0;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-title;
+  color: $color-green;
+}
+
+section,
+head {
+  padding: 30px;
+}
+
+/* Global description lists */
+
+dd {
+
+  span {
+    color: $color-hover;
+  }
+}
+
+dl {
+
+  dd,
+  dt {
+    font-size: $font-size-medium;
+  }
+
+  dd{
+    margin-inline: 0;
+    padding: 8px;
+  }
+
+  dt {
+    padding-bottom: 20px;
+  }
+
+  dt:not(:first-child) {
+    padding-top: 30px;
+  }
+
+  @media (min-width: 768px) {
+
+    dd,
+    dt{
+      font-size: $font-size-medium-big;
+    }
+  }
+
+  @media (min-width: 1200px) {
+
+    dd,
+    dt{
+      font-size: $font-size-big;
+    }
+  }
+}
+
+/* Links and icons */
+
+a {
+  color: $link-text;
+  text-decoration: none;
+}
+
 a:hover,
 i:hover {
   color: mix($color-hover, $link-text, 70%);
@@ -105,6 +98,13 @@ i:hover {
   transform: scale(1.5);
 }
 
+/* Positioning */
+
+.right {
+  float: right;
+}
+
+/* MediaQueries */
 
 @media (min-width: 768px) {
 
@@ -127,6 +127,6 @@ i:hover {
 @media (min-width: 1200px) {
 
   h3 {
-    font-size: $font-size-bigger;
+    font-size: $font-size-big-desktop;
   }
 }

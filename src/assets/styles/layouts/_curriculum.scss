@@ -1,10 +1,12 @@
+/* Curriculum section dd style */
+
 .curriculum {
-  
-  dd {
+
+  .curriculum-dd {
     font-size: $font-size-litle;
   }
 
-  dd:hover {
+  .curriculum-dd:hover {
     font-size: $font-size-medium;
     transition: all .3s cubic-bezier(.65, .05, .36, 1);
   }

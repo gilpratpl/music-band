@@ -1,5 +1,7 @@
 @use "sass:color";
 
+/* fonts */
+
 @font-face {
   font-family: "OCR A EXTENDED";
   src: url("../fonts/OCR\ A\ Extended\ V1.woff");
@@ -7,22 +9,25 @@
 }
 
 @font-face {
-  font-family: Montserrat;
+  font-family: montserrat;
   src: url("../fonts/Montserrat-Medium.woff");
   font-display: swap;
 }
 
-$font-family-sans-serif: Montserrat, Helvetica, Arial, sans-serif;
+$font-family-sans-serif: montserrat, helvetica, arial, sans-serif;
 $font-family-code:  "OCR A Extended", monospace;
-$font-size-bigger: 70px;
+$font-size-big-desktop: 70px;
 $font-size-title: 50px;
 $font-size-big: 30px;
 $font-size-big-tablet: 35px;
 $font-size-medium-big: 25px;
 $font-size-medium: 20px;
 $font-size-litle: 16px;
-$main-text: #ffffff;
-$link-text: #AA4F4F;
+
+/* Colors */
+
+$main-text: #fff;
+$link-text: #aa4f4f;
 $uoc-bg: #353535;
 $color-hover: #52dbfb;
 $color-green: #c8d368;

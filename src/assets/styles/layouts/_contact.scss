@@ -1,16 +1,19 @@
+/* Contact section style */
 
 .contacto {
   text-align: center;
 
-  p {
+  .contacto-p {
     margin-right: 25%;
     margin-left: 25%;
   }
 
-  a {
+  .contacto-a {
     margin: 20px;
     font-size: $font-size-big;
   }
+
+  /* Contact section animation resize and positioning */
 
   .graphic {
     position: absolute;
@@ -19,13 +22,13 @@
     margin-top: -100px;
   }
 
-  .brain {
+  .graphic-brain {
     width: 60%;
     margin-top: -20%;
     margin-right: -50%;
   }
 
-  .triangle {
+  .graphic-triangle {
     margin-top: -80%;
   }
 

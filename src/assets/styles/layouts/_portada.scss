@@ -1,86 +1,90 @@
+/* First section style */
+
 .portada {
   box-sizing: border-box;
   align-items: center;
   justify-content: space-around;
   padding-top: 6%;
   padding-bottom: 3%;
-    
-  .primary-title {
+
+  .portada-title {
     font-size: $font-size-big;
     font-weight: 700;
     color: $color-green;
   }
-  
-  .secondary-title {
+
+  .portada-subtitle {
     font-size: $font-size-medium;
     color: $color-hover;
   }
 
-  .code {
-    display:none;
+  .portada-code {
+    display: none;
     font-size: $font-size-medium;
-    p {
+
+    .code-p {
       margin-top: 20px;
       margin-bottom: 20px;
       font-family: $font-family-code;
       font-weight: 700;
     }
-    
+
     .code-padding {
       padding-left: 40px;
     }
   }
 
+  /* MediaQueries */
 
   @media (min-width: 768px) {
 
-    .code {
-      display:inline-block;
+    .portada-code {
+      display: inline-block;
     }
 
-    .primary-title {
+    .portada-title {
       font-size: $font-size-big-tablet;
     }
 
-    .secondary-title {
+    .portada-subtitle {
       font-size: $font-size-medium-big;
     }
-  
   }
 
-  
   @media (min-width: 1200px) {
 
-    .code {
-      display:inline-block;
+    .portada-code {
+      display: inline-block;
       font-size: $font-size-big;
     }
 
-    .primary-title {
+    .portada-title {
       font-size: $font-size-title;
     }
 
-    .secondary-title {
+    .portada-subtitle {
       font-size: $font-size-big;
     }
   }
 }
 
+/* Backgound image */
+
 .image {
-  background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-phone.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../images/portada-phone.webp");
   background-size: cover;
 }
 
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
 
-    .image {
-      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-tablet.webp");
-    }
+  .image {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../images/portada-tablet.webp");
   }
+}
 
-  @media (min-width: 1200px) {
+@media (min-width: 1200px) {
 
-    .image {
-      background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../images/portada-desktop.webp");
-    }
+  .image {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../images/portada-desktop.webp");
   }
+}

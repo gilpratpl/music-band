@@ -1,26 +1,28 @@
-
+/* Keyframes */
 
 @keyframes rotate {
 
   0% {
-    transform: rotate(5deg)
+    transform: rotate(5deg);
   }
 }
 
 @keyframes growup {
 
   0% {
-    transform: scale(1.1)
+    transform: scale(1.1);
   }
 }
-  
+
+/* Animation style and positioning */
+
 .graphic {
   z-index: -1000;
   display: flex;
   flex-flow: column;
   width: 300px;
 
-  .brain {
+  .graphic-brain {
     align-self: center;
     animation: growup;
     animation-duration: .7s;
@@ -28,7 +30,7 @@
     animation-direction: alternate;
   }
 
-  .triangle {
+  .graphic-triangle {
     z-index: 1;
     align-self: center;
     animation: rotate;
