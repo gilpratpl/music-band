@@ -7,7 +7,7 @@
   margin: 0;
   font-family: $font-family-code;
   color: $main-text;
-  background-color: $uoc-bg;
+  background-color: $main-bg;
 }
 
 .footer {
@@ -26,11 +26,11 @@
   }
 }
 
-h3 {
+h2 {
   margin-top: 0;
   font-family: $font-family-sans-serif;
   font-size: $font-size-title;
-  color: $color-green;
+  color: $title-text;
 }
 
 section,
@@ -38,12 +38,29 @@ head {
   padding: 30px;
 }
 
+@media (min-width: 768px) {
+
+  section,
+  head {
+    padding: 0;
+  }
+}
+
+
+@media (min-width: 1200px) {
+
+  section,
+  head {
+    padding: 30px;
+  }
+}
+
 /* Global description lists */
 
 dd {
 
   span {
-    color: $color-hover;
+    color: $secondary-text;
   }
 }
 
@@ -93,7 +110,7 @@ a {
 
 a:hover,
 i:hover {
-  color: mix($color-hover, $link-text, 70%);
+  color: mix($secondary-text, $link-text, 70%);
   transition: all .5s ease;
   transform: scale(1.5);
 }
@@ -108,7 +125,7 @@ i:hover {
 
 @media (min-width: 768px) {
 
-  h3 {
+  h2 {
     margin-top: 50px;
     font-size: $font-size-title;
   }
@@ -126,7 +143,7 @@ i:hover {
 
 @media (min-width: 1200px) {
 
-  h3 {
+  h2 {
     font-size: $font-size-big-desktop;
   }
 }

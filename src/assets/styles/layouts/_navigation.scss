@@ -4,14 +4,14 @@
   position: absolute;
   right: 50px;
 
-  .navigation-a {
+  .navigation-link {
     font-size: $font-size-medium-big;
     font-weight: 600;
     color: $link-text;
     text-decoration: none;
   }
 
-  .navigation-li {
+  .navigation-list {
     list-style: none;
   }
 }

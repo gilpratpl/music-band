@@ -5,7 +5,7 @@
   text-align: right;
 
   dd:hover {
-    color: $color-hover;
+    color: mix($secondary-text, $link-text, 70%);
     transition: all .5s ease;
   }
 

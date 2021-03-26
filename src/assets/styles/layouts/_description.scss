@@ -22,7 +22,7 @@
     position: absolute;
   }
 
-  .descripcion-p {
+  .descripcion-paragraph {
     display: flex;
     flex-direction: column;
     justify-content: end;
@@ -38,7 +38,7 @@
 
   @media (min-width: 768px) {
 
-    .descripcion-p {
+    .descripcion-paragraph {
       width: 60%;
       font-size: $font-size-medium;
       line-height: 35px;
@@ -47,7 +47,7 @@
 
   @media (min-width: 1200px) {
 
-    .descripcion-p {
+    .descripcion-paragraph {
       width: 60%;
       font-size: $font-size-medium-big;
       line-height: 45px;

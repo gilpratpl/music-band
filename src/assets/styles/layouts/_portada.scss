@@ -10,19 +10,19 @@
   .portada-title {
     font-size: $font-size-big;
     font-weight: 700;
-    color: $color-green;
+    color: $title-text;
   }
 
   .portada-subtitle {
     font-size: $font-size-medium;
-    color: $color-hover;
+    color: $secondary-text;
   }
 
   .portada-code {
     display: none;
     font-size: $font-size-medium;
 
-    .code-p {
+    .code-paragraph {
       margin-top: 20px;
       margin-bottom: 20px;
       font-family: $font-family-code;
