@@ -1,0 +1,70 @@
+
+.band-members,
+.band-pasion {
+
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-top: 50px;
+
+  h1 {
+    font-size: $font-size-big-tablet;
+  }
+
+  img {
+    max-height: 300px;
+  }
+
+  h2 {
+    color: $title-text;
+  }
+}
+
+hr{
+  height: 4px;
+  color: $title-text;
+}
+
+.band-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 40px;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+
+  width: 30%;
+
+  min-width: 250px;
+  margin: 10px;
+  color: $black;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .4);
+  transition: .3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
+}
+
+/* Add some padding inside the card container */
+
+.card-container {
+  padding: 2px 16px;
+}
+
+@media (min-width: 768px) {
+
+  .band-members,
+  .band-pasion {
+    padding-right: 15%;
+    padding-left: 15%;
+
+    h1 {
+      font-size: $font-size-title;
+    }
+  }
+}

@@ -1,0 +1,68 @@
+
+.title {
+  padding-left: 22%;
+  margin-top: 40px;
+  font-size: $font-size-big-tablet;
+}
+
+.band-image {
+  height: 400px;
+}
+
+.bio {
+
+  padding-right: 5%;
+  padding-left: 5%;
+  font-family: $font-family-sans-serif;
+
+  p,
+  blockquote {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+
+  li p:first-of-type,
+  li::marker {
+    font-size: 20px;
+    font-weight: 900;
+    color: $title-text;
+  }
+}
+
+blockquote,
+.emphasis {
+  font-size: 17px;
+  font-weight: 900;
+}
+
+@media (min-width: 768px) {
+
+  .bio-slogan{
+    display: flex;
+
+    p {
+      width: 45%;
+      padding-right: 30px;
+      padding-left: 30px;
+    }
+
+    blockquote {
+      width: 55%;
+      font-size: 25px;
+    }
+  }
+
+  .bio{
+    padding-right: 22%;
+    padding-left: 22%;
+  }
+
+  .title {
+    font-size: $font-size-title;
+  }
+
+  .emphasis {
+    font-size: 25px;
+    font-weight: 900;
+  }
+}

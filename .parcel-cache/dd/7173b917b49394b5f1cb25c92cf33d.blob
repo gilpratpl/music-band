@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="/index.HASH_REF_237d595ef779a5341b4db643563353d6.css">
+    <title>BIO</title>
+</head>
+
+<body class="body">
+    <header id="header">
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/index.html">ShitImChoosen</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/band-members.html">
+                                Miembros
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/bio-page.html">
+                                Bio
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/contact.html">
+                                Contacto
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <div>
+                <picture class="me">
+                    <source type="image/webp" srcset="/band.HASH_REF_53d2362287b72121ac9d6d23d6dbea95.webp">
+                    <source type="image/jpg" srcset="/band.HASH_REF_56ecd42475e3190f1f127076e81011f2.jpg">
+                    <img class="band-image" src="/band.HASH_REF_56ecd42475e3190f1f127076e81011f2.jpg" alt="imagen de la banda">
+                </picture>
+
+                <h1 class="title">Sobre nosotros</h1>
+            </div>
+            <div class="bio">
+                <section class="bio-intro">
+                    <p class="emphasis">
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                        A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                    </p>
+                    <p>
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                        A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                    </p>
+                </section>
+                <hr>
+                <section class="bio-skills">
+                    <ol>
+                        <li>
+                            <p>Porque hacemos musica</p>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                            </p>
+                        </li>
+                        <li>
+                            <p>Nuestro estilo</p>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                            </p>
+                        </li>
+                        <li>
+                            <p>Próximas giras</p>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                            </p>
+                        </li>
+                    </ol>
+                </section>
+                <hr>
+                <section class="bio-slogan">
+                    <!-- flex and two items like in wireframes-->
+                    <blockquote cite="">
+                        For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries.
+                    </blockquote>
+
+                    <p>
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                    </p>
+                </section>
+                <section class="bio-show">
+                    <img src="/lastShow.HASH_REF_365cda5bff503c00539143637585f857.jpg" alt="last show">
+                    <p>
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                    </p>
+                </section>
+            </div>
+        </article>
+    </main>
+
+    <footer class="footer">
+        <div class="phone">
+            <p><i class="fas fa-phone-alt"> </i>  609386905</p>
+        </div>
+        <div>
+            <a class="navbar-brand" href="#">ShitImChoosen</a>
+            <ul class="nav justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/index.html">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/band-members.html">Miembros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/bio-page.html">Bio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact.html">Trabajos</a>
+                </li>
+            </ul>
+            <p>
+                <a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href="">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </p>
+        </div>
+        <div class="author-info">
+            <div>
+                <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
+            </div>
+            <p>
+                Imagenes <a class="small-font" href="https://unsplash.com">unsplash.com</a>
+                Font made from <a class="small-font" href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0
+            </p>
+        </div>
+    </footer>
+    <script src="/contact.HASH_REF_84c9d45a3a67a2f0c2722b9dfa9081b9.js"></script>
+</body>
+
+</html>

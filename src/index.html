@@ -6,128 +6,92 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no">
   <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss">
-  <title>Portfolio</title>
+  <title>ShitImChoosen</title>
 </head>
 
 <body class="body">
   <header id="header">
-    <nav class="navigation-nav">
-      <ul class="right">
-        <li class="navigation-list"><a class="navigation-link" href="#contacto"><i class="fas fa-envelope"></i></a></li>
-      </ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">ShitImChoosen</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="band-members.html">
+                  Miembros
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="bio-page.html">
+                  Bio
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">
+                  Trabajos
+                </a>
+            </li>
+        </ul>
+        </div>
+      </div>
     </nav>
-
   </header>
   <main>
-
-    <section class="flex portada image">
-      <div>
-        <h1 class="portada-title">Gil Prat Pladevall</h1>
-        <p lang="en" class="portada-subtitle">Full stack developer</p>
-      </div>
-      <div lang="en" class="portada-code">
-        <p class="code-paragraph">IF (CODE & DESIGN) {</p>
-        <p class="code-padding code-paragraph">RETURN TRUE;</p>
-        <p class="code-paragraph">}</p>
-        <p class="code-paragraph">ELSE {</p>
-        <p class="code-padding code-paragraph"> THROW EXCEPTION();</p>
-        <p class="code-paragraph">}</p>
-      </div>
+    <section class="portada">
+      <h1>ShitImChoosen</h1>
+  <p class="about"> ShitImChoosen es un proyecto español de música electrónica-pop, creada por Juan Rodri (Cantante, guitarra y compositor). La banda fue creada en el año 2017 en Barcelona y poco a poco han ido ganando fama en todo el pais y parte de 
+    europa. La proxima gira va a empezar el dia <time datetime="21-03-2021">21 de marzo de 2021</time> en Barcelona.
+  </p>
+  <a class="tour-members" type="button" href="band-members.html">MIEMBROS</a>
+  <img src="assets/images/poster-750px.jpg" alt="Band at miami">
+  <button class="tour-dates" type="button">Gira</button>
+  <div class="location1">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="21-03-2021">21.3.2021</time> Barcelona<br>Palau sant Jordi</p>
+  </div>
+  <div class="location2">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="15-4-2021">15.4.2021</time> Madrid<br>Plaza España</p>
+  </div>
+  <div class="location3">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="10-05-2021">10.5.2021</time> Miami<br>Santa Monica</p>
+  </div>
     </section>
-
-    <section class="descripcion">
-      <h2>Sobre mi</h2>
-      <div class="graphic">
-        <img class="graphic-brain" src="assets/images/cerebro_verde_2b.svg" alt="brain">
-        <img class="graphic-triangle" src="assets/images/triangulo_azul_2b.svg" alt="triangulo">
-      </div>
-      <div class="flex">
-        <picture class="me">
-          <source type="image/webp" srcset="assets/images/me.webp">
-          <source type="image/png" srcset="assets/images/me.png">
-          <img class="me" src="assets/images/me.png" alt="image of gil prat pladevall">
-        </picture>
-        <p class="descripcion-paragraph">
-          Full stack developer desarrollando Back End principalmente en .NET CORE con C# y Front End con Angular o React
-          con REDUX desde hace 7 años,
-          con gran capacidad para gestionar proyectos medianos y grandes.
-          Diseñador de UI/UX con pasión para diseñar experiencias de usuario buenas y funcionales.
-        </p>
-      </div>
-    </section>
-
-    <div class="flex">
-
-      <section class="skills">
-        <h2>_Aptitudes</h2>
-        <dl>
-          <dt><i class="fas fa-code-branch"> </i> <i class="fab fa-js-square"> </i> <i class="fab fa-html5"> </i> <i
-              class="fab fa-css3-alt"> </i>...</dt>
-          <dd> SQL </dd>
-          <dd> C#</dd>
-          <dd> HTML</dd>
-          <dd> CSS</dd>
-          <dd> JavaScript</dd>
-          <dd> ASP NET</dd>
-          <dd> NET CORE</dd>
-          <dd> ANGULAR</dd>
-          <dd> REACT</dd>
-          <dd> REDUX</dd>
-        </dl>
-      </section>
-
-      <section class="curriculum">
-        <h2>_Currículum</h2>
-        <dl>
-          <dt><i class="fas fa-university"></i> Educación</dt>
-          <dd class="curriculum-description-list">Grado en ingeniería mecatrónica <br>
-              <span>  <abbr title="universitat de vic">UVIC</abbr> <time datetime="2012">2012</time> -
-              <time datetime="2016">2016</time></span></dd>
-          <dd class="curriculum-description-list">Grado en ingeniería electrónica industrial y automática <br>
-              <span> <abbr title="universitat de vic">UVIC</abbr> <time
-                datetime="2013">2013</time>
-              - <time datetime="2017">2017</time></span></dd>
-          <dd class="curriculum-description-list">Máster en desarrollo de sitios y aplicaciones web <br>
-                <span>  <abbr title="universitat oberta de catalunya">UVIC</abbr> (en curso) <time
-                datetime="2020">2020</time> - <time datetime="2021">2021</time></span> </dd>
-          <dt><i class="fas fa-laptop-code"></i> Experiencia laboral</dt>
-          <dd class="curriculum-description-list"> Técnico informático <br><span>Accessor</span> </dd>
-          <dd class="curriculum-description-list"> Desarrollador Back-End en C# <br><span>JCM-TECHNOLOGIES</span> </dd>
-          <dd class="curriculum-description-list"> Responsable aplicaciones móviles <br><span>JCM-TECHNOLOGIES</span></dd>
-          <dd class="curriculum-description-list"> Desarrollador Front-End en REACT <br><span>JCM-TECHNOLOGIES</span> </dd>
-          <dt><i class="fas fa-medal"></i> Logros</dt>
-          <dd class="curriculum-description-list"> Premio mejor trabajo de fin de grado por el colegio de ingenieros de Manresa </dd>
-          <dd class="curriculum-description-list"> Premio mejor expediente académico en el Grado en ingeniería electrónica industrial
-            y automática</dd>
-        </dl>
-      </section>
-
-    </div>
-
-    <section id="contacto" class="contacto">
-      <h2>Contacto</h2>
-      <p class="contacto-paragraph">Si tienes un proyecto y crees que te puedo ayudar,
-        contacta conmigo enviando un correo electrónico</p>
-      <a class="contacto-link" href="mailto:gpratpl@uoc.edu">pulsando aquí</a><br>
-      <p class="contacto-paragraph">Estaré encatando de poder atenderte y darte soporte en todo aquello que necesites.</p>
-      <div class="graphic">
-        <img class="graphic-brain" src="assets/images/cerebro_verde_2b.svg" alt="brain">
-        <img class="graphic-triangle" src="assets/images/triangulo_azul_2b.svg" alt="triangulo">
-      </div>
-    </section>
-
   </main>
 
   <footer class="footer">
-    <div>
-      <a class="right" href="#header">&xwedge;</a>
-      <p><a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i
-            class="fab fa-youtube"></i></a></p>
+  <div class="phone">
+  <p><i class="fas fa-phone-alt"> </i>  609386905</p>
+</div>
+<div>
+  <a class="navbar-brand" href="#">ShitImChoosen</a>
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page"  href="index.html">Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="band-members.html">Miembros</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="bio-page.html">Bio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">Trabajos</a>
+      </li>
+    </ul>
+    <p><a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i
+      class="fab fa-youtube"></i></a></p>
+    </div>
+        <div class="author-info">
       <div>
         <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
       </div>
-      <p>Imagenes <a href="https://unsplash.com">unsplash.com</a>
-      <div>Font made from <a href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0</div>
+      <p>Imagenes <a  class="small-font" href="https://unsplash.com">unsplash.com</a>
+      Font made from <a   class="small-font"href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0</p>
     </div>
   </footer>
   <script src="./assets/scripts/main.js"></script>

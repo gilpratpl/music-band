@@ -24,6 +24,11 @@ $font-size-medium-big: 25px;
 $font-size-medium: 20px;
 $font-size-litle: 16px;
 
+
+$theme-colors: (
+  "primary": #bada55 // posa-hi el codi de color que prefereixis
+);
+
 /* Colors */
 
 $main-text: #fff;
@@ -31,3 +36,7 @@ $title-text: #c8d368;
 $link-text: #aa4f4f;
 $secondary-text: #52dbfb;
 $main-bg: #353535;
+
+/* bootsrap */
+
+$navbar-dark-hover-color:   $secondary-text;

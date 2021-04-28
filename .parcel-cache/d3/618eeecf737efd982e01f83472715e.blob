@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="66c2291ab912ce19bd4f157e52f45e1f">
+  <title>ShitImChoosen</title>
+</head>
+
+<body class="body">
+  <header id="header">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="0b494a7d9fcacb0e85709034f764e2a9">ShitImChoosen</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="1e1f1b1d1e23e7cc5998f5d9d0abef5c">
+                  Miembros
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="df938628ac2e07e5ab05f391a38a8eb7">
+                  Bio
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="5b062140716789126e496bf4e6fe0736">
+                  Trabajos
+                </a>
+            </li>
+        </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <section class="portada">
+      <h1>ShitImChoosen</h1>
+  <p class="about"> ShitImChoosen es un proyecto español de música electrónica-pop, creada por Juan Rodri (Cantante, guitarra y compositor). La banda fue creada en el año 2017 en Barcelona y poco a poco han ido ganando fama en todo el pais y parte de 
+    europa. La proxima gira va a empezar el dia <time datetime="21-03-2021">21 de marzo de 2021</time> en Barcelona.
+  </p>
+  <a class="tour-members" type="button" href="1e1f1b1d1e23e7cc5998f5d9d0abef5c">MIEMBROS</a>
+  <img src="665b790888e8f608f1cf653cc4d48f0a" alt="Band at miami">
+  <button class="tour-dates" type="button">Gira</button>
+  <div class="location1">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="21-03-2021">21.3.2021</time> Barcelona<br>Palau sant Jordi</p>
+  </div>
+  <div class="location2">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="15-4-2021">15.4.2021</time> Madrid<br>Plaza España</p>
+  </div>
+  <div class="location3">
+    <a href=""><i class="fas fa-map-marker-alt"></i></a>
+    <p><time datetime="10-05-2021">10.5.2021</time> Miami<br>Santa Monica</p>
+  </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+  <div class="phone">
+  <p><i class="fas fa-phone-alt"> </i>  609386905</p>
+</div>
+<div>
+  <a class="navbar-brand" href="#">ShitImChoosen</a>
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="0b494a7d9fcacb0e85709034f764e2a9">Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="1e1f1b1d1e23e7cc5998f5d9d0abef5c">Miembros</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="df938628ac2e07e5ab05f391a38a8eb7">Bio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="5b062140716789126e496bf4e6fe0736">Trabajos</a>
+      </li>
+    </ul>
+    <p><a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i class="fab fa-youtube"></i></a></p>
+    </div>
+        <div class="author-info">
+      <div>
+        <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
+      </div>
+      <p>Imagenes <a class="small-font" href="4f6200629655d63ceca6d12b59ae8f79">unsplash.com</a>
+      Font made from <a class="small-font" href="5954f3f6675757f392f8395b4a18d05b">online Web Fonts</a>is licensed by CC BY 3.0</p>
+    </div>
+  </footer>
+  <script src="86a4fe1aaafca55d8b8f698841ba5a80"></script>
+</body>
+
+</html>
