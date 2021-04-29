@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+    <link rel="stylesheet" type="text/css" href="/index.HASH_REF_237d595ef779a5341b4db643563353d6.css">
     <title>BIO</title>
 </head>
 
@@ -45,9 +45,9 @@
         <article>
             <div>
                 <picture class="me">
-                    <source type="image/webp" srcset="/band.d6dbea95.webp">
-                    <source type="image/jpg" srcset="/band.e81011f2.jpg">
-                    <img class="band-image" src="/band.e81011f2.jpg" alt="imagen de la banda">
+                    <source type="image/webp" srcset="/band.HASH_REF_53d2362287b72121ac9d6d23d6dbea95.webp">
+                    <source type="image/jpg" srcset="/band.HASH_REF_56ecd42475e3190f1f127076e81011f2.jpg">
+                    <img class="band-image" src="/band.HASH_REF_56ecd42475e3190f1f127076e81011f2.jpg" alt="imagen de la banda">
                 </picture>
 
                 <h1 class="title">Sobre nosotros</h1>
@@ -106,7 +106,7 @@
                     </p>
                 </section>
                 <section class="bio-show">
-                    <img src="/lastShow.7585f857.jpg" alt="last show">
+                    <img src="/lastShow.HASH_REF_365cda5bff503c00539143637585f857.jpg" alt="last show">
                     <p>
                         Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
@@ -154,7 +154,7 @@
             </p>
         </div>
     </footer>
-    <script src="/contact.fa9081b9.js"></script>
+    <script src="/contact.HASH_REF_84c9d45a3a67a2f0c2722b9dfa9081b9.js"></script>
 </body>
 
 </html>

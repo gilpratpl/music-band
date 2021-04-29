@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+    <link rel="stylesheet" type="text/css" href="9a146eaa9b70dc3a73f4e957927cf93b">
     <title>BIO</title>
 </head>
 
@@ -14,24 +14,24 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/index.html">ShitImChoosen</a>
+                <a class="navbar-brand" href="7113e37dc749a226004afa91692849b2">ShitImChoosen</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="/band-members.html">
+                            <a class="nav-link" href="026d8d816287236ee0728a6a024275d7">
                                 Miembros
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/bio-page.html">
+                            <a class="nav-link" href="02e00f6c3834a12c0e6d56e203b6381e">
                                 Bio
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="/contact.html">
+                            <a class="nav-link active" href="2c6c9380b681b58a445fa3fbb3b17980">
                                 Contacto
                             </a>
                         </li>
@@ -45,9 +45,9 @@
         <article>
             <div>
                 <picture class="me">
-                    <source type="image/webp" srcset="/band.d6dbea95.webp">
-                    <source type="image/jpg" srcset="/band.e81011f2.jpg">
-                    <img class="band-image" src="/band.e81011f2.jpg" alt="imagen de la banda">
+                    <source type="image/webp" srcset="cf733a3c808b339d597f772ce9ea8382">
+                    <source type="image/jpg" srcset="2b32b7aab1fa806eb0a5e7a48cc72f5e">
+                    <img class="band-image" src="2b32b7aab1fa806eb0a5e7a48cc72f5e" alt="imagen de la banda">
                 </picture>
 
                 <h1 class="title">Sobre nosotros</h1>
@@ -106,7 +106,7 @@
                     </p>
                 </section>
                 <section class="bio-show">
-                    <img src="/lastShow.7585f857.jpg" alt="last show">
+                    <img src="04e16dec598ca2d73532b33adc96f43b" alt="last show">
                     <p>
                         Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
@@ -126,16 +126,16 @@
             <a class="navbar-brand" href="#">ShitImChoosen</a>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/index.html">Inicio</a>
+                    <a class="nav-link active" aria-current="page" href="7113e37dc749a226004afa91692849b2">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/band-members.html">Miembros</a>
+                    <a class="nav-link" href="026d8d816287236ee0728a6a024275d7">Miembros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/bio-page.html">Bio</a>
+                    <a class="nav-link" href="02e00f6c3834a12c0e6d56e203b6381e">Bio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact.html">Trabajos</a>
+                    <a class="nav-link" href="2c6c9380b681b58a445fa3fbb3b17980">Trabajos</a>
                 </li>
             </ul>
             <p>
@@ -149,12 +149,12 @@
                 <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
             </div>
             <p>
-                Imagenes <a class="small-font" href="https://unsplash.com">unsplash.com</a>
-                Font made from <a class="small-font" href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0
+                Imagenes <a class="small-font" href="fd93db99782958de98c06177c8add104">unsplash.com</a>
+                Font made from <a class="small-font" href="964fbaacfb02db65890e39661c2f900d">online Web Fonts</a>is licensed by CC BY 3.0
             </p>
         </div>
     </footer>
-    <script src="/contact.fa9081b9.js"></script>
+    <script src="7d33d7a0835b1750a68f80b4a09206dc"></script>
 </body>
 
 </html>

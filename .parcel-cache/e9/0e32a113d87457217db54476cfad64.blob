@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no">
-  <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+  <link rel="stylesheet" type="text/css" href="9cf94a2ecb70f5ba9d70e387d1d841ca">
   <title>Portfolio</title>
 </head>
 
@@ -14,24 +14,24 @@
    
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/index.html">ShitImChoosen</a>
+        <a class="navbar-brand" href="7d04c10e6179f2f5ab709863d89b158a">ShitImChoosen</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
           <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="/band-members.html">
+                <a class="nav-link" href="85ada55d882fd5cddd7900e908518ba3">
                   Miembros
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/bio-page.html">
+                <a class="nav-link" href="ca913304f7d8baaa057ff12f20e01a8f">
                   Bio
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/contact.html">
+                <a class="nav-link" href="b89a3519ae77de9d0f82f05557f90a41">
                   Contacto
                 </a>
             </li>
@@ -80,8 +80,7 @@
             <label for="floatingSelect">Selecciona un instrumento</label>
           </div>
           <div class="form-floating">
-            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px
-"></textarea>
+            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="895a10ea70749298468798b1ef67a578"></textarea>
             <label for="floatingTextarea2">Comments</label>
           </div>
           <div class="col-12">
@@ -106,16 +105,16 @@
   <a class="navbar-brand" href="#">ShitImChoosen</a>
     <ul class="nav justify-content-center">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/index.html">Inicio</a>
+        <a class="nav-link active" aria-current="page" href="7d04c10e6179f2f5ab709863d89b158a">Inicio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/band-members.html">Miembros</a>
+        <a class="nav-link" href="85ada55d882fd5cddd7900e908518ba3">Miembros</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/bio-page.html">Bio</a>
+        <a class="nav-link" href="ca913304f7d8baaa057ff12f20e01a8f">Bio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/contact.html">Contacto</a>
+        <a class="nav-link" href="b89a3519ae77de9d0f82f05557f90a41">Contacto</a>
       </li>
     </ul>
     <p><a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i class="fab fa-youtube"></i></a></p>
@@ -129,7 +128,7 @@
       Font made from <a href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0</p>
     </div-->
   </footer>
-  <script src="/contact.fa9081b9.js"></script>
+  <script src="32c350785afb1eda46e043141818507d"></script>
 </body>
 
 </html>

@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no">
-  <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+  <link rel="stylesheet" type="text/css" href="/index.HASH_REF_237d595ef779a5341b4db643563353d6.css">
   <title>ShitImChoosen</title>
 </head>
 
@@ -46,7 +46,7 @@
     europa. La proxima gira va a empezar el dia <time datetime="21-03-2021">21 de marzo de 2021</time> en Barcelona.
   </p>
   <a class="tour-members" type="button" href="/band-members.html">MIEMBROS</a>
-  <img src="/poster-750px.daf6b4ab.jpg" alt="Band at miami">
+  <img src="/poster-750px.HASH_REF_332b0a038fe77801b514596edaf6b4ab.jpg" alt="Band at miami">
   <button class="tour-dates" type="button">Gira</button>
   <div class="location1">
     <a href=""><i class="fas fa-map-marker-alt"></i></a>
@@ -93,7 +93,7 @@
       Font made from <a class="small-font" href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0</p>
     </div>
   </footer>
-  <script src="/contact.fa9081b9.js"></script>
+  <script src="/contact.HASH_REF_84c9d45a3a67a2f0c2722b9dfa9081b9.js"></script>
 </body>
 
 </html>
