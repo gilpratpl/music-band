@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+    <link rel="stylesheet" type="text/css" href="9cf94a2ecb70f5ba9d70e387d1d841ca">
     <title>Trabajo</title>
 </head>
 
@@ -13,24 +13,24 @@
     <header id="header">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/index.html">ShitImChoosen</a>
+                <a class="navbar-brand" href="7d04c10e6179f2f5ab709863d89b158a">ShitImChoosen</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="/band-members.html">
+                            <a class="nav-link" href="85ada55d882fd5cddd7900e908518ba3">
                                 Miembros
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/bio-page.html">
+                            <a class="nav-link" href="ca913304f7d8baaa057ff12f20e01a8f">
                                 Bio
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="/contact.html">
+                            <a class="nav-link active" href="b89a3519ae77de9d0f82f05557f90a41">
                                 Trabajo
                             </a>
                         </li>
@@ -42,7 +42,7 @@
     <main class="contact">
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="/index.html">Inicio</a></li>
+                <li class="breadcrumb-item"><a href="7d04c10e6179f2f5ab709863d89b158a">Inicio</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Trabajo</li>
             </ol>
         </nav>
@@ -109,23 +109,23 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <picture class="me">
-                            <source type="image/webp" srcset="/concert1.f2a5d07e.webp">
-                            <source type="image/jpg" srcset="/concert1.804988ba.jpg">
-                            <img class="band-image" src="/concert1.804988ba.jpg" alt="Barcelona">
+                            <source type="image/webp" srcset="2ec142d0da1d574624fa11c0e94310d9">
+                            <source type="image/jpg" srcset="c9a610f07323c080d4707e4d276e5afd">
+                            <img class="band-image" src="c9a610f07323c080d4707e4d276e5afd" alt="Barcelona">
                         </picture>
                     </div>
                     <div class="carousel-item">
                         <picture>
-                            <source type="image/webp" srcset="/concert2.51eae426.webp">
-                            <source type="image/jpg" srcset="/concert2.0aa5b594.jpg">
-                            <img class="band-image" src="/concert2.0aa5b594.jpg" alt="Madrid">
+                            <source type="image/webp" srcset="0dc13ec9d87067a182add8b911f08df9">
+                            <source type="image/jpg" srcset="46085d02614a27c8ca757a34389a3273">
+                            <img class="band-image" src="46085d02614a27c8ca757a34389a3273" alt="Madrid">
                         </picture>
                     </div>
                     <div class="carousel-item">
                         <picture>
-                            <source type="image/webp" srcset="/concert3.71378f2b.webp">
-                            <source type="image/jpg" srcset="/concert3.1df8d711.jpg">
-                            <img class="band-image" src="/concert3.1df8d711.jpg" alt="Miami">
+                            <source type="image/webp" srcset="e34c493a4e1519b6239b3295801d2a3b">
+                            <source type="image/jpg" srcset="6619e0e64f5f1c5971f49b901bb2edda">
+                            <img class="band-image" src="6619e0e64f5f1c5971f49b901bb2edda" alt="Miami">
                         </picture>
                     </div>
                 </div>
@@ -149,16 +149,16 @@
             <a class="navbar-brand" href="#">ShitImChoosen</a>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="/index.html">Inicio</a>
+                    <a class="nav-link" aria-current="page" href="7d04c10e6179f2f5ab709863d89b158a">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/band-members.html">Miembros</a>
+                    <a class="nav-link" href="85ada55d882fd5cddd7900e908518ba3">Miembros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/bio-page.html">Bio</a>
+                    <a class="nav-link" href="ca913304f7d8baaa057ff12f20e01a8f">Bio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="/contact.html">Trabajo</a>
+                    <a class="nav-link active" href="b89a3519ae77de9d0f82f05557f90a41">Trabajo</a>
                 </li>
             </ul>
             <p>
@@ -172,12 +172,12 @@
                 <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
             </div>
             <p>
-                Imagenes <a class="small-font" href="https://unsplash.com">unsplash.com</a>
-                Font made from <a class="small-font" href="http://www.onlinewebfonts.com">online Web Fonts</a>is licensed by CC BY 3.0
+                Imagenes <a class="small-font" href="09c4cad8f36c846079f343b97bfbd3a6">unsplash.com</a>
+                Font made from <a class="small-font" href="0dd67f7d791d09ca526ca9fb9f9be287">online Web Fonts</a>is licensed by CC BY 3.0
             </p>
         </div>
     </footer>
-    <script src="/contact.fa9081b9.js"></script>
+    <script src="32c350785afb1eda46e043141818507d"></script>
 </body>
 
 </html>

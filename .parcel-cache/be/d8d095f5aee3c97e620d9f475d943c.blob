@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/index.563353d6.css">
+    <link rel="stylesheet" type="text/css" href="/index.HASH_REF_237d595ef779a5341b4db643563353d6.css">
     <title>Miembros</title>
 </head>
 
@@ -52,7 +52,7 @@
             <h1>Miembros de la banda</h1>
             <div class="band-cards">
                 <div class="card">
-                    <img src="/music1.bf333dcc.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music1.HASH_REF_29e462632964f87145d4be3fbf333dcc.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Juan Rodri</b></h4>
                         <p>Voz y guitarra electrica</p>
@@ -60,7 +60,7 @@
 
                 </div>
                 <div class="card">
-                    <img src="/music2.03ad974c.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music2.HASH_REF_8d1f66d2c7894b8ef3d713e003ad974c.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Mikel Jhon</b></h4>
                         <p>Saxo y compositor</p>
@@ -68,7 +68,7 @@
 
                 </div>
                 <div class="card">
-                    <img src="/music3.7aefcd4f.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music3.HASH_REF_73b8042b887013015c7660247aefcd4f.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Manel Guti</b></h4>
                         <p>Pianista</p>
@@ -76,7 +76,7 @@
 
                 </div>
                 <div class="card">
-                    <img src="/music4.71ddef86.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music4.HASH_REF_75e6d84cc8b29e6cbdb8579371ddef86.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Adri Gómez</b></h4>
                         <p>Guitarra y vocalista</p>
@@ -84,7 +84,7 @@
 
                 </div>
                 <div class="card">
-                    <img src="/music5.8e017383.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music5.HASH_REF_c5d54301fe4b9778334b52a78e017383.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Nerea Smith</b></h4>
                         <p>Guitarra y bajo</p>
@@ -92,7 +92,7 @@
 
                 </div>
                 <div class="card">
-                    <img src="/music6.43188c35.jpg" class="card-image" alt="imagen de Juan">
+                    <img src="/music6.HASH_REF_2345d65e002cda396eafdc4943188c35.jpg" class="card-image" alt="imagen de Juan">
                     <div class="card-container">
                         <h4><b>Marc Croses</b></h4>
                         <p>Bateria</p>
@@ -148,7 +148,7 @@
             </p>
         </div>
     </footer>
-    <script src="/contact.fa9081b9.js"></script>
+    <script src="/contact.HASH_REF_84c9d45a3a67a2f0c2722b9dfa9081b9.js"></script>
 </body>
 
 </html>
