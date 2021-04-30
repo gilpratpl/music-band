@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="8d2eccdc88c58c05c5e66b58c8dbb659">
+    <title>ShitImChoosen</title>
+</head>
+
+<body class="body">
+    <header id="header">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="b169808feeed70b853e15759d47bc057">ShitImChoosen</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse  justify-content-end" id="navbarNavAltMarkup">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="457e13a55fe70cba220bf012031ff561">
+                                Miembros
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="e17f174186f94b9a684b53c73067c875">
+                                Bio
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="a2798e3712952b0f42df286f9e79fb30">
+                                Trabajos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="portada">
+            <h1>ShitImChoosen</h1>
+            <p class="band-about">
+                ShitImChoosen es un proyecto español de música electrónica-pop, creada por Juan Rodri (Cantante, guitarra y compositor). La proxima gira va a empezar el dia <time datetime="21-03-2021">21 de marzo de 2021</time> en Barcelona.
+            </p>
+            <a class="tour-members" type="button" href="457e13a55fe70cba220bf012031ff561">MIEMBROS</a>
+            <img src="3ec73d3a10b20fd4bc492126f3c30ee6" alt="Band at miami">
+            <button class="tour-dates" type="button">Gira</button>
+            <div class="location1">
+                <a href=""><i class="fas fa-map-marker-alt"></i></a>
+                <p><time datetime="21-03-2021">21.3.2021</time> Barcelona<br>Palau sant Jordi</p>
+            </div>
+            <div class="location2">
+                <a href=""><i class="fas fa-map-marker-alt"></i></a>
+                <p><time datetime="15-4-2021">15.4.2021</time> Madrid<br>Plaza España</p>
+            </div>
+            <div class="location3">
+                <a href=""><i class="fas fa-map-marker-alt"></i></a>
+                <p><time datetime="10-05-2021">10.5.2021</time> Miami<br>Santa Monica</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="phone">
+            <p><i class="fas fa-phone-alt"> </i>  609386905</p>
+        </div>
+        <div>
+            <a class="navbar-brand" href="#">ShitImChoosen</a>
+            <ul class="nav justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="b169808feeed70b853e15759d47bc057">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="457e13a55fe70cba220bf012031ff561">Miembros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="e17f174186f94b9a684b53c73067c875">Bio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="a2798e3712952b0f42df286f9e79fb30">Trabajo</a>
+                </li>
+            </ul>
+            <p>
+                <a href=""><i class="fab fa-facebook"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href="">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </p>
+        </div>
+        <div class="author-info">
+            <div>
+                <p>&copy; <time datetime="2021">2021</time> Gil Prat Pladevall</p>
+            </div>
+            <p>
+                Imagenes <a class="small-font" href="e494853f62462797d5b89274301347e0">unsplash.com</a>
+                Font made from <a class="small-font" href="a0b23d5cb8900d93082ea9983233199e">online Web Fonts</a>is licensed by CC BY 3.0
+            </p>
+        </div>
+    </footer>
+    <script src="912a326f5565fe59b5c510f51615c1c5"></script>
+</body>
+
+</html>

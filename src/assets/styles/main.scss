@@ -29,6 +29,8 @@
  * It's a best practice to use a different partial for each page
  */
 
+@import "layouts/layout";
+
 @import "layouts/home";
 
 @import "layouts/members";
@@ -36,20 +38,6 @@
 @import "layouts/bio";
 
 @import "layouts/contact";
-
-//@import "layouts/navigation";
-
-//@import "layouts/skills";
-
-//@import "layouts/contact";
-
-//@import "layouts/animations";
-
-//@import "layouts/description";
-
-//@import "layouts/portada";
-
-//@import "layouts/curriculum";
 
 /**
  * Do NOT include anything else in this file!

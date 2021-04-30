@@ -26,17 +26,36 @@ $font-size-litle: 16px;
 
 
 $theme-colors: (
-  "primary": #bada55 // posa-hi el codi de color que prefereixis
+  "primary": #bada55
 );
 
 /* Colors */
 
 $main-text: #fff;
-$title-text: #c8d368;
-$link-text: #aa4f4f;
-$secondary-text: #52dbfb;
+$secondary-text: #c8d368;
+$emphasis-text: #aa4f4f;
+$blue-text: #52dbfb;
 $main-bg: #353535;
 
 /* bootsrap */
 
-$navbar-dark-hover-color:   $secondary-text;
+$navbar-dark-hover-color:   $blue-text;
+
+/* form */
+
+$input-border-color: $blue-text;
+$input-focus-border-color: $secondary-text;
+$input-border-width: 2px;
+$input-box-shadow: none;
+$input-focus-box-shadow: none;
+$input-bg: $secondary-text;
+
+/* breadcrumb */
+
+$breadcrumb-margin-bottom: 3rem;
+$breadcrumb-font-size: $font-size-medium;
+$carousel-transition-duration: .2s;
+$carousel-control-icon-width: 4rem;
+$carousel-control-color: $secondary-text;
+$carousel-control-opacity: .7;
+$carousel-control-hover-opacity: 1;
