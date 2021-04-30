@@ -29,13 +29,13 @@
 
 @supports (display:grid) {
 
-  @media (min-width: 42em) and (min-height: 27em) {
+  @media (min-width: 768px) and (min-height: 432px) {
 
     .portada {
       display: grid;
       max-width: none;
       padding: 0;
-      grid-template-columns: 1fr minmax(10em, max-content) 1fr minmax(10em, max-content) 1fr minmax(10em, 1fr) fit-content(10em);
+      grid-template-columns: 1fr minmax(10em, max-content) 1fr minmax(10em, max-content) 1fr minmax(10em, 1fr);
       grid-template-rows: 30vh 30vh 20vh;
     }
 
